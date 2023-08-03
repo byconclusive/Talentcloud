@@ -15,7 +15,7 @@ print("2 - Subtração")
 print("3 - Multiplicação")
 print("4 - Divisão")
 
-operacao = int(input("Digite a opera~ção: "))
+operacao = int(input("Digite a operação: "))
 
 
 
