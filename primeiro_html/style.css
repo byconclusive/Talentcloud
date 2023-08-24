@@ -1,0 +1,115 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: white;
+    align-items: center;
+}
+
+footer {
+    text-align: left;
+    background: white;
+    padding: 40px 80px 30px 40px;
+}
+
+footer ul{
+    display: inline;
+    padding: 50%;
+    
+}
+
+.titulo-p {
+    width: 16%;;
+    padding: 50px 0 50px 30px;
+ 
+  
+}
+
+.menu {
+    position: relative;
+    text-align: right;
+    font-size: 20px; 
+    padding: 50px 30px 50px 30px;
+    margin: 0 auto;
+    color: black;
+}
+
+nav {
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 20px;
+}
+
+
+.redes {
+    text-align: right;
+    padding: 40px;
+    padding-top: 10px;
+    
+}
+
+.viagens {
+    width: 50%;
+    padding-left: 40px;
+   
+}
+
+.principal {
+    text-align: center;
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+
+}
+
+.tirulo-principal {
+    text-align: center;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linearGradient(#FEFEFE,#888888);
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto
+}
+
+.mapa p{
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+main {
+    background: #FEFEFE;
+    text-align: center;
+}
+
+.pontos-listas {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.pontos-listas li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    border-radius: 10px;
+
+}
